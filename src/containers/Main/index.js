@@ -1,13 +1,13 @@
 import React from 'react'
 import { ProjectLink } from '../../components/ProjectLink'
-import { About } from '../../components/About'
+import { Studio } from '../../components/Studio'
 import { Hero } from '../../components/Hero'
 
 export function MainContainer() {
   return (
     <>
       <Hero />
-      <About />
+      <Studio />
       <ProjectLink />
     </>
   )
