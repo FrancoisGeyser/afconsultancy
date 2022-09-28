@@ -47,7 +47,6 @@ a {
 .container {
   position: relative;
   display: flex;
-  max-width: 1600px;
   padding-right: 80px;
   padding-left: 80px;
   flex-direction: column;
